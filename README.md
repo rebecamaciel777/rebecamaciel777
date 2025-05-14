@@ -11,10 +11,10 @@
 ## Sobre Mim / About Me
 
 **Português**:  
-Desenvolvedora full-stack versátil e motivada, com foco na criação de soluções acessíveis e práticas. Habilidosa em desenvolvimento front-end e back-end, sou uma aprendiz rápida que adora resolver desafios e colaborar em ambientes dinâmicos.
+Desenvolvedora front end versátil e motivada, com foco na criação de soluções acessíveis e práticas. Habilidosa em desenvolvimento front-end, sou uma aprendiz rápida que adora resolver desafios e colaborar em ambientes dinâmicos.
 
 **English**:  
-Versatile and driven full-stack developer with a focus on creating accessible and practical solutions. Skilled in front-end and back-end development, I’m a quick learner who thrives on solving challenges and collaborating in dynamic environments.
+Versatile and driven front end developer with a focus on creating accessible and practical solutions. Skilled in front-end development, I’m a quick learner who thrives on solving challenges and collaborating in dynamic environments.
 
 <table>
   <tr>
@@ -40,12 +40,12 @@ Versatile and driven full-stack developer with a focus on creating accessible an
   <tr>
     <td><ul>
       <li>Português: Nativo.</li>
-      <li>Inglês: Intermediário.</li>
+      <li>Inglês: Fluente.</li>
       <li>Espanhol: Intermediário.</li>
     </ul></td>
     <td><ul>
       <li>Portuguese: Native.</li>
-      <li>English: Intermediate.</li>
+      <li>English: Fluent.</li>
       <li>Spanish: Intermediate.</li>
     </ul></td>
   </tr>
@@ -55,7 +55,7 @@ Versatile and driven full-stack developer with a focus on creating accessible an
 <table>
   <tr>
     <th>Front End</th>
-    <th>Back End</th>
+    
   </tr>
   <tr>
     <td>
@@ -64,11 +64,6 @@ Versatile and driven full-stack developer with a focus on creating accessible an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50"/>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
     </td>
   </tr>
 </table>
