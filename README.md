@@ -6,7 +6,7 @@
 <img src="https://caccioppoli.com/Gif%20linee%20animate/Moving_squares.gif" width="100%">
 
 # REBECA MACIEL
-👩‍💻 **Desenvolvedora FULL STACK** / **FULL STACK Developer**
+👩‍💻 **Desenvolvedora FRONT END** / **FRONT END Developer**
 
 ## Sobre Mim / About Me
 
