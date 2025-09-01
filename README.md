@@ -4,7 +4,7 @@
 
 ### Front-End Developer passionate about creating amazing experiences  
 ### Desenvolvedora Front-End apaixonada por criar experiências incríveis
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rebeca-maciel-3838131b2)
 [![GitHub](https://img.shields.io/badge/GitHub-rebecamaciel777-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebecamaciel777)
 [![Email](https://img.shields.io/badge/Email-rebecamacielr@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rebecamacielr@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_94_984356240-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5594984356240)
@@ -72,22 +72,40 @@ Desenvolvedora Front-End que adora transformar ideias em código! Tenho experiê
 ---
 ## 🎮 Projects | Projetos
 
-### Memory Game – In Development
-A color-based memory game developed with **HTML, CSS, and JavaScript**, currently lightweight and optimized for low-performance notebooks. Future updates will include **pixel art** and modern technologies.  
 
-[🎮 Play the game](https://memory-game-2a2z00ixo-rebecamaciel777s-projects.vercel.app/)
+<div align="center">
+  
+## ⚖️ Neuvillette – Fan Project
+
+**🇺🇸** My first fan project created with HTML, CSS, and JavaScript!  
+**🇧🇷** Meu primeiro projeto de fã, criado com HTML, CSS e JavaScript!
+
+[![Saiba Mais | Learn More](https://img.shields.io/badge/Saiba%20Mais%20%7C%20Learn%20More-1DA1F2?style=for-the-badge&logoColor=white)](https://github.com/rebecamaciel777/neuvillette)
+
+## 🧠 Memory Game – In Development
+
+<div align="center">
+
+**🇺🇸** A color-based memory game developed with HTML, CSS, and JavaScript! 
+Currently lightweight and optimized for low-performance notebooks. **Future updates will include pixel art and modern technologies.**
+
+**🇧🇷** Um jogo de memória baseado em cores, desenvolvido com HTML, CSS e JavaScript!
+Atualmente leve e otimizado para notebooks de baixo desempenho. **Atualizações futuras incluirão pixel art e tecnologias mais modernas.**
+
+[![🎮 Play the Game](https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20the%20Game-8A2BE2?style=for-the-badge&logoColor=white)](https://github.com/rebecamaciel777/memory-game-)
+
+
 
 ---
 
 ## 📫 Let's Connect! | Vamos Conversar!
 
-<div align="center">
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rebeca-maciel-3838131b2)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebecamaciel777)  
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=microsoft-outlook)](mailto:rebecamacielr@outlook.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5594984356240)
 
-</div>
+
 
 ---
 
