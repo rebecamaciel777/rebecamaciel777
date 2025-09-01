@@ -70,16 +70,12 @@ Desenvolvedora Front-End que adora transformar ideias em código! Tenho experiê
 - 🇪🇸 Spanish - Intermediate | Intermediário  
 
 ---
+## 🎮 Projects | Projetos
 
-## 📊 GitHub Stats | Estatísticas
+### Memory Game – In Development
+A color-based memory game developed with **HTML, CSS, and JavaScript**, currently lightweight and optimized for low-performance notebooks. Future updates will include **pixel art** and modern technologies.  
 
-<div align="center">
-
-![Rebeca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecamaciel777&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamaciel777&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+[🎮 Play the game](https://memory-game-2a2z00ixo-rebecamaciel777s-projects.vercel.app/)
 
 ---
 
